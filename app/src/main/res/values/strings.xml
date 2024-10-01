@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Roda Dua App</string>
+
+    <string name="rodas_name">Motorku</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile_icon">profile_icon</string>
+    <string name="img_item_photo">Detail Gambar Motor</string> <!-- Tambahkan entri ini -->
+
+    <string-array name="data_name">
+        <item>Benelli Street</item>
+        <item>Benelli Tua</item>
+        <item>BMW GS 1200</item>
+        <item>BMW S1000 RR</item>
+        <item>Ducati Panigale</item>
+        <item>Ducati Street</item>
+        <item>Harley Sportster</item>
+        <item>Honda ADV 750</item>
+        <item>Honda African Twin</item>
+        <item>Honda CB 1000 RR</item>
+        <item>Suzuki GSX</item>
+        <item>Yamaha R1</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Motor sport yang stylish, didesain untuk pengendara yang menyukai kecepatan dan tampilan modern, cocok untuk menarik perhatian di jalan raya.</item>
+        <item>Motor klasik yang penuh karakter, menawarkan nuansa retro dengan perpaduan teknologi modern, sempurna untuk pengendara yang menyukai gaya vintage.</item>
+        <item>Motor touring yang handal, dilengkapi dengan fitur kenyamanan untuk perjalanan jarak jauh, membuat setiap petualangan lebih menyenangkan dan lancar.</item>
+        <item>Motor sport yang sangat cepat, dibangun dengan aerodinamika tinggi dan mesin bertenaga, ideal untuk mereka yang ingin merasakan adrenalin di setiap perjalanan.</item>
+        <item>Ikon dari motor sport Italia, dikenal karena desain elegan dan performa yang mengesankan, menjadi simbol gaya dan kecepatan di dunia otomotif.</item>
+        <item>Motor yang cocok untuk perkotaan, lincah dan efisien dalam penggunaan bahan bakar, memberikan kenyamanan untuk manuver di jalanan yang padat.</item>
+        <item>Motor cruiser yang legendaris, menawarkan posisi berkendara yang nyaman dan mesin yang kuat, cocok untuk perjalanan santai dengan gaya khas.</item>
+        <item>Motor petualang untuk semua medan, dirancang untuk menjelajahi berbagai kondisi jalan dengan kemampuan off-road yang tak tertandingi.</item>
+        <item>Motor off-road yang kuat, memiliki suspensi yang tangguh dan mesin bertenaga, ideal untuk menaklukkan medan berat dan tantangan alam.</item>
+        <item>Motor sport yang bertenaga, menawarkan akselerasi cepat dan handling presisi, memberikan pengalaman berkendara yang mendebarkan di lintasan maupun jalan raya.</item>
+        <item>Motor sport yang terjangkau, memberikan performa optimal dengan harga yang kompetitif, ideal bagi pengendara yang mencari kecepatan tanpa menguras kantong.</item>
+        <item>Motor sport yang terkenal di dunia balap, sering terlihat di sirkuit internasional dengan sejarah panjang di kompetisi balap, menjadi pilihan utama para pembalap profesional.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/benelli_street</item>
+        <item>@drawable/benelli_tua</item>
+        <item>@drawable/bmw_gs</item>
+        <item>@drawable/bmw_s1000rr</item>
+        <item>@drawable/ducati_panigale</item>
+        <item>@drawable/ducati_street</item>
+        <item>@drawable/harley_sportster</item>
+        <item>@drawable/honda_adv</item>
+        <item>@drawable/honda_africantwin</item>
+        <item>@drawable/honda_cb1000rr</item>
+        <item>@drawable/suzuki_gsx</item>
+        <item>@drawable/yamaha_r1</item>
+    </integer-array>
+</resources>
